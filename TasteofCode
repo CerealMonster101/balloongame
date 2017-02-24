@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Taste of Code</title>
+</head>
+<body>
+
+<h1>Agenda</h1>
+
+<p> On the menu today: </p>
+
+<ul>
+	<li>Structure with HTML</li>
+	<li>Styling with HTML</li>
+	<li>Happiness with lunch</li>
+	<li>Behaviour with lunch</li>
+</ul>
+</body>
+</html>
